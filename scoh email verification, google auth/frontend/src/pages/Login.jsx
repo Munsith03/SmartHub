@@ -5,6 +5,7 @@ import {
   LogIn, 
   UserPlus, 
   Mail, 
+  // Updated login UI handling
   Lock, 
   User, 
   Hash, 
